@@ -1,0 +1,2 @@
+Iniciar um projeto node 
+npm init
